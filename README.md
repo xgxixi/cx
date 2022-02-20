@@ -8,4 +8,4 @@
 ```
 PRINT("HELLO WORLD");
 ```
-- [ ] TEST
+- [x] TEST
